@@ -1,0 +1,3 @@
+C:\Users\ExampleJohn\Desktop\TFS\CheckItIn\CheckItIn\bin\Debug\CheckItIn.pdb
+C:\Users\ExampleJohn\Desktop\TFS\CheckItIn\CheckItIn\obj\Debug\CheckItIn.dll
+C:\Users\ExampleJohn\Desktop\TFS\CheckItIn\CheckItIn\obj\Debug\CheckItIn.pdb

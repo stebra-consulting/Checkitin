@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="927d406f-c752-4730-b9d3-4dea7ec863e1" 
+        solutionId="927d406f-c752-4730-b9d3-4dea7ec863e1" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CheckItIn"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="df80d1a0-245e-4db4-9be7-9fd2676a7bf6" />
+  </features>
+</package>

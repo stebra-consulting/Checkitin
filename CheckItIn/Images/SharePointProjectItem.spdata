@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Images\" Type="ElementManifest" />
+    <ProjectItemFile Source="CheckItInButton\loading2.gif" Target="Images\CheckItInButton\" Type="ElementFile" />
+    <ProjectItemFile Source="CheckItInButton\round.png" Target="Images\CheckItInButton\" Type="ElementFile" />
+    <ProjectItemFile Source="CheckItInButton\round_hover.png" Target="Images\CheckItInButton\" Type="ElementFile" />
+    <ProjectItemFile Source="CheckItInButton\round_pressed.png" Target="Images\CheckItInButton\" Type="ElementFile" />
+    <ProjectItemFile Source="CheckItInButton\Thumbs.db" Target="Images\CheckItInButton\" Type="ElementFile" />
+    <ProjectItemFile Source="StebraCheckItInterlaced.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="loading3.gif" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="AppIcon3.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="All_files2.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="Screen_v5.png" Target="Images\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

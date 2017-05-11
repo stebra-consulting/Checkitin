@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\CheckItInButton\loading2.gif" Url="Images/CheckItInButton/loading2.gif" ReplaceContent="TRUE" />
+    <File Path="Images\CheckItInButton\round.png" Url="Images/CheckItInButton/round.png" ReplaceContent="TRUE" />
+    <File Path="Images\CheckItInButton\round_hover.png" Url="Images/CheckItInButton/round_hover.png" ReplaceContent="TRUE" />
+    <File Path="Images\CheckItInButton\round_pressed.png" Url="Images/CheckItInButton/round_pressed.png" ReplaceContent="TRUE" />
+    <File Path="Images\CheckItInButton\Thumbs.db" Url="Images/CheckItInButton/Thumbs.db" ReplaceContent="TRUE" />
+    <File Path="Images\StebraCheckItInterlaced.png" Url="Images/StebraCheckItInterlaced.png" ReplaceContent="TRUE" />
+    <File Path="Images\loading3.gif" Url="Images/loading3.gif" ReplaceContent="TRUE" />
+    <File Path="Images\AppIcon3.png" Url="Images/AppIcon3.png" ReplaceContent="TRUE" />
+    <File Path="Images\All_files2.png" Url="Images/All_files2.png" ReplaceContent="TRUE" />
+    <File Path="Images\Screen_v5.png" Url="Images/Screen_v5.png" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

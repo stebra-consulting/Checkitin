@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="jqwidgets\jqxcore.js" Url="jqwidgets/jqxcore.js" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\jqxdata.js" Url="jqwidgets/jqxdata.js" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\jqxdatatable.js" Url="jqwidgets/jqxdatatable.js" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\jqxdropdownlist.js" Url="jqwidgets/jqxdropdownlist.js" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\jqxlistbox.js" Url="jqwidgets/jqxlistbox.js" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\jqxnotification.js" Url="jqwidgets/jqxnotification.js" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\jqxscrollbar.js" Url="jqwidgets/jqxscrollbar.js" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\jqxtooltip.js" Url="jqwidgets/jqxtooltip.js" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\jqx.base.css" Url="jqwidgets/styles/jqx.base.css" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\jqx.energyblue.css" Url="jqwidgets/styles/jqx.energyblue.css" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\images\close_black.png" Url="jqwidgets/styles/images/close_black.png" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\images\icon-first-blue.png" Url="jqwidgets/styles/images/icon-first-blue.png" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\images\icon-first.png" Url="jqwidgets/styles/images/icon-first.png" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\images\icon-last-blue.png" Url="jqwidgets/styles/images/icon-last-blue.png" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\images\icon-last.png" Url="jqwidgets/styles/images/icon-last.png" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\images\icon-left-blue.png" Url="jqwidgets/styles/images/icon-left-blue.png" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\images\icon-left.png" Url="jqwidgets/styles/images/icon-left.png" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\images\icon-right-blue.png" Url="jqwidgets/styles/images/icon-right-blue.png" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\images\icon-right.png" Url="jqwidgets/styles/images/icon-right.png" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\images\warning.png" Url="jqwidgets/styles/images/warning.png" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\jqxbuttons.js" Url="jqwidgets/jqxbuttons.js" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\jqx.darkblue.css" Url="jqwidgets/styles/jqx.darkblue.css" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\jqx.metrodark.css" Url="jqwidgets/styles/jqx.metrodark.css" ReplaceContent="TRUE" />
+    <File Path="jqwidgets\styles\jqx.bluemod.css" Url="jqwidgets/styles/jqx.bluemod.css" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

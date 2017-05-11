@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Type="ElementManifest" />
+    <ProjectItemFile Source="jqwidgets\jqxbuttons.js" Target="jqwidgets\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\jqxcore.js" Target="jqwidgets\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\jqxdata.js" Target="jqwidgets\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\jqxdatatable.js" Target="jqwidgets\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\jqxdropdownlist.js" Target="jqwidgets\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\jqxlistbox.js" Target="jqwidgets\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\jqxnotification.js" Target="jqwidgets\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\jqxscrollbar.js" Target="jqwidgets\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\jqxtooltip.js" Target="jqwidgets\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\jqx.base.css" Target="jqwidgets\styles\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\jqx.energyblue.css" Target="jqwidgets\styles\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\images\close_black.png" Target="jqwidgets\styles\images\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\images\icon-first-blue.png" Target="jqwidgets\styles\images\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\images\icon-first.png" Target="jqwidgets\styles\images\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\images\icon-last-blue.png" Target="jqwidgets\styles\images\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\images\icon-last.png" Target="jqwidgets\styles\images\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\images\icon-left-blue.png" Target="jqwidgets\styles\images\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\images\icon-left.png" Target="jqwidgets\styles\images\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\images\icon-right-blue.png" Target="jqwidgets\styles\images\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\images\icon-right.png" Target="jqwidgets\styles\images\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\images\warning.png" Target="jqwidgets\styles\images\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\jqx.darkblue.css" Target="jqwidgets\styles\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\jqx.metrodark.css" Target="jqwidgets\styles\" Type="ElementFile" />
+    <ProjectItemFile Source="jqwidgets\styles\jqx.bluemod.css" Target="jqwidgets\styles\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

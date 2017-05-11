@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint App Feature" Id="df80d1a0-245e-4db4-9be7-9fd2676a7bf6" Scope="Web" Title="CheckItIn Feature1" Version="2.0.0.1">
+  <ElementManifests>
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\Default.aspx" />
+    <ElementFile Location="Pages\AppPart.aspx" />
+    <ElementFile Location="Pages\NoValidLicense.html" />
+    <ElementFile Location="Pages\ExpiredLicense.html" />
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\App.js" />
+    <ElementFile Location="Scripts\jquery-1.9.1.min.map" />
+    <ElementFile Location="Scripts\jquery-1.9.1.min.js" />
+    <ElementFile Location="Scripts\jquery-1.9.1.js" />
+    <ElementFile Location="Scripts\jquery-1.9.1.intellisense.js" />
+    <ElementFile Location="Scripts\LicenseCheck.js" />
+    <ElementFile Location="Scripts\jquery.xml2json.js" />
+    <ElementFile Location="Scripts\Language.js" />
+    <ElementManifest Location="Elements.xml" />
+    <ElementFile Location="jqwidgets\jqxbuttons.js" />
+    <ElementFile Location="jqwidgets\jqxcore.js" />
+    <ElementFile Location="jqwidgets\jqxdata.js" />
+    <ElementFile Location="jqwidgets\jqxdatatable.js" />
+    <ElementFile Location="jqwidgets\jqxdropdownlist.js" />
+    <ElementFile Location="jqwidgets\jqxlistbox.js" />
+    <ElementFile Location="jqwidgets\jqxnotification.js" />
+    <ElementFile Location="jqwidgets\jqxscrollbar.js" />
+    <ElementFile Location="jqwidgets\jqxtooltip.js" />
+    <ElementFile Location="jqwidgets\styles\jqx.base.css" />
+    <ElementFile Location="jqwidgets\styles\jqx.energyblue.css" />
+    <ElementFile Location="jqwidgets\styles\images\close_black.png" />
+    <ElementFile Location="jqwidgets\styles\images\icon-first-blue.png" />
+    <ElementFile Location="jqwidgets\styles\images\icon-first.png" />
+    <ElementFile Location="jqwidgets\styles\images\icon-last-blue.png" />
+    <ElementFile Location="jqwidgets\styles\images\icon-last.png" />
+    <ElementFile Location="jqwidgets\styles\images\icon-left-blue.png" />
+    <ElementFile Location="jqwidgets\styles\images\icon-left.png" />
+    <ElementFile Location="jqwidgets\styles\images\icon-right-blue.png" />
+    <ElementFile Location="jqwidgets\styles\images\icon-right.png" />
+    <ElementFile Location="jqwidgets\styles\images\warning.png" />
+    <ElementFile Location="jqwidgets\styles\jqx.darkblue.css" />
+    <ElementFile Location="jqwidgets\styles\jqx.metrodark.css" />
+    <ElementFile Location="jqwidgets\styles\jqx.bluemod.css" />
+    <ElementManifest Location="Images\Elements.xml" />
+    <ElementFile Location="Images\CheckItInButton\loading2.gif" />
+    <ElementFile Location="Images\CheckItInButton\round.png" />
+    <ElementFile Location="Images\CheckItInButton\round_hover.png" />
+    <ElementFile Location="Images\CheckItInButton\round_pressed.png" />
+    <ElementFile Location="Images\CheckItInButton\Thumbs.db" />
+    <ElementFile Location="Images\StebraCheckItInterlaced.png" />
+    <ElementFile Location="Images\loading3.gif" />
+    <ElementFile Location="Images\AppIcon3.png" />
+    <ElementFile Location="Images\All_files2.png" />
+    <ElementFile Location="Images\Screen_v5.png" />
+    <ElementManifest Location="Content\Elements.xml" />
+    <ElementFile Location="Content\App.css" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="Pages\Elements.xml" />
+        <ElementManifest Location="Scripts\Elements.xml" />
+        <ElementManifest Location="Elements.xml" />
+        <ElementManifest Location="Images\Elements.xml" />
+        <ElementManifest Location="Content\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>
